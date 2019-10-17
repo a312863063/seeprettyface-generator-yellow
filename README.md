@@ -10,6 +10,25 @@
 ## 概览（有筛选）
 ![Image text](https://github.com/a312863063/seeprettyface-generator-yellow/blob/master/examples/64_examples.jpg)
 <br /><br /><br />
+
+# 黄种人脸属性编辑
+&emsp;&emsp;人脸属性编辑支持在年龄、笑容、角度、性别和光照等23个维度上对生成人物作出调整（详细了解请前往[人脸属性编辑器](https://github.com/a312863063/seeprettyface-face_editor)处）。这儿只展示5种基本调整示例。
+## 笑容调整
+![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/smile.jpg)
+<br/><br/>
+## 年龄调整
+![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/age.jpg)
+<br/><br/>
+## 角度调整
+![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/angle_horizontal.jpg)
+<br/><br/>
+## 性别调整
+![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/gender.jpg)
+<br/><br/>
+## 光照调整
+![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/exposure.jpg)
+<br/><br/><br />
+
 # 运行代码
 ## 环境配置
 &emsp;&emsp;Both Linux and Windows are supported, but we strongly recommend Linux for performance and compatibility reasons.<br/>
