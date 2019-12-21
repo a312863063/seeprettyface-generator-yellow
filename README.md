@@ -1,6 +1,6 @@
 # 黄种人人脸生成器
 <br />
-&emsp;&emsp;<b>更新：基于StyleGAN2制作的新版生成器消除了生成图片中水滴斑点和扭曲/损坏现象的出现，质量大幅提升。<a href='https://github.com/a312863063/generators-with-stylegan2'>点此查看新版</a></b><br />
+&emsp;&emsp;<b>更新：基于StyleGAN2制作的新版生成器消除了生成图片中水滴斑点和扭曲/损坏现象的出现，质量大幅提升。<a href='https://github.com/a312863063/generators-with-stylegan2'>点此查看新版</a>。</b><br />
 --------------------------------------------------------------------------------------------------------------------<br /><br /><br />
 &emsp;&emsp;注明：之前做的一些有意思的人脸生成器，现在全部开源分享出来。它的主要作用是可生成制作各类型的人脸素材，供我们任意使用且无须担心人脸版权的问题。在定制人脸上，开源的全系列生成器包括：<a href='https://github.com/a312863063/seeprettyface-generator-yellow'>黄种人脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>网红脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>明星脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>超模脸生成器</a>和<a href='https://github.com/a312863063/seeprettyface-generator-babies'>萌娃脸生成器</a>，同时<a href='https://github.com/a312863063/seeprettyface-face_editor'>人脸属性编辑器</a>能够对所有这些生成器生成的人物进行调整和改变。<br />
 &emsp;&emsp;注意：开源的目的是为了方便研究者学习，未经允许严禁私用为商业用途。如想应用于商业产品之中，请参阅本页底部的付费规则，付费之后便可获得商业开发使用权。模型版权拥有者为：www.seeprettyface.com 。<br />
@@ -60,6 +60,6 @@
 </p>
 <br/><br/><br/>
 ## 商业开发付费规则~
-&emsp;&emsp;旧版生成器已完全免费开放，尽情享用。。
+&emsp;&emsp;旧版生成器已完全免费开放，尽请享用。。
 <br/><br/><br/>
 
